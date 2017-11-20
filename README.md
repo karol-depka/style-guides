@@ -14,7 +14,7 @@ web project efficiently and in best practices. You can find here:
     which are basically the _John Papa_ style guides for AngularJS 1.x,
 * [**AngularJS 2+ Style Guides**](angular2+.md):  
     which are the Angular 2+ style guides by John Papa, extended by some features,
-* [**Git Best Practices and Style Guides**](git.md) (Comming soon):  
+* [**Git Best Practices and Style Guides**](git.md) (Coming soon):  
     which define Best Practices for working with Git,
 * etc.
 
