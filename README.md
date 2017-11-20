@@ -1,4 +1,4 @@
-Web Project Stylue Guides
+Web Project Style Guides
 =========================
 
 In this repository I try to collect all information about how to create a
